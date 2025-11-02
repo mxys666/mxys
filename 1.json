@@ -1,7 +1,7 @@
 {"spider":"https://jihulab.com/xuanzhuapp/xzys/-/raw/main/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
-	[{"key":"魔性影视TV","name":"魔性影视TV","type":3,"api":"csp_Douban","searchable":0},
+	[{"key":"🔥🔥🔥魔性影视TV🔥🔥🔥","name":"🔥🔥🔥魔性影视TV🔥🔥🔥","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"云盘登录","name":"云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"配置中心","name":"云盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://jihulab.com/xuanzhuapp/xzys/-/raw/main/danmu.jar;md5;02d800e8b76465acdd1f989d6b7db868"},
     {"key":"腾讯视频","name":"腾讯｜影视","type":3,"api":"https://jihulab.com/xuanzhuapp/xzys/-/raw/main/JS/drpy.min.js","ext":"https://jihulab.com/xuanzhuapp/xzys/-/raw/main/JS/腾讯视频.js"},
