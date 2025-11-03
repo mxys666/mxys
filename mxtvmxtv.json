@@ -1,0 +1,17 @@
+{
+    "time": 0,
+    "index": [
+        {
+            "url": "http://156.233.227.51:22222",
+            "name": "A线"
+        },
+        {
+            "url": "http://mochu.shanhaiguanwu.com",
+            "name": "B线"
+        },
+        {
+            "url": "http://mochu.shanhaiguanwu.top",
+            "name": "C线"
+        }
+    ]
+}
